@@ -7,7 +7,7 @@ This project features an interactive Financial Performance Dashboard built using
 
 ## Dashboard Preview
 
-![Financial Performance Dashboard](dashboard (2).png)
+![Financial Performance Dashboard](dashboard%20(2).png)
 
 ---
 
@@ -49,7 +49,7 @@ The report transforms raw financial data into strategic insights through interac
 ## Repository Files
 - `Financial_Performance_Dashboard.pbix` – Power BI report file
 - `Financial_Performance_Data_Model` – Dataset & budget targets
-- `dashboard.png` – Dashboard preview screenshot
+- `dashboard (2).png` – Dashboard preview screenshot
 
 ---
 
