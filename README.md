@@ -7,7 +7,7 @@ This project features an interactive Financial Performance Dashboard built using
 
 ## Dashboard Preview
 
-![Financial Performance Dashboard](dashboard.png)
+![Financial Performance Dashboard](dashboard (2).png)
 
 ---
 
